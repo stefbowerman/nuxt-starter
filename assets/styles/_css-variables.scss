@@ -1,0 +1,14 @@
+/*
+ * This file is included once, for the entire site.
+ *
+ * Use these variables for CSS values that need to be dynamic in the browser
+ * Use variable names semantic to their use and then adjust their values based on context
+ *
+ * i.e. '--color-primary' instead of '--color-black'
+ *
+ */
+
+:root {
+  --color-primary: #{$color-text};
+  --color-secondary: #{$red};
+}

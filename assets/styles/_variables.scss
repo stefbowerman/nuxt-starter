@@ -1,0 +1,35 @@
+/* Color */
+
+$black: #000;
+$white: #FFF;
+$red:   #cf2442;
+$blue:  #35495e;
+$green: #00c58e;
+
+$body-bg:    $white;
+$color-text: $black;
+
+
+/* Typography */
+
+$font-family-base: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+
+$font-weight-thin:        100;
+$font-weight-extra-light: 200;
+$font-weight-light:       300;
+$font-weight-normal:      400;
+$font-weight-medium:      500;
+$font-weight-semi-bold:   600;
+$font-weight-bold:        700;
+$font-weight-extra-bold:  800;
+$font-weight-black:       900;
+
+$breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 1024px,
+  xl: 1200px,
+  xxl: 1480px,
+  xxxl: 1800px
+);
