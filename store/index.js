@@ -9,7 +9,7 @@ export const mutations = {
 }
 
 export const actions = {
-  // async nextServerInit({ dispatch, commit, state }) {
+  // async nuxtServerInit({ dispatch, commit, state }) {
   //   const data = await fetchDataMethod
   //   commit('SET_SETTINGS', data)
   // }
